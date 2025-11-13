@@ -6,16 +6,67 @@ To Design a wireframe diagram for a generic application or website using Balsami
 
 ## Algorithm:
 
-1.Welcome/Splash Screen
+1. Welcome / Splash Screen
 
-2.Login/Signup Screen
+Show app logo and name.
 
-3.Home/Dashboard Screen
+Add a short tagline.
 
-4.Product Listing
+Use a simple background with music-style design.
 
-5.Checkout/Final Action Screens
+Show a small loading symbol.
 
+Move automatically to the Login/Signup screen after a few seconds.
+
+2. Login / Signup Screen
+
+Show “Login” and “Signup” options.
+
+Login: Email/Username and Password fields.
+
+Signup: Name, Email, Password fields.
+
+Add buttons like “Continue with Google or Apple.”
+
+Include “Forgot Password” link.
+
+After successful login or signup, go to Home Screen.
+
+3. Home / Dashboard Screen
+
+Show a greeting like “Hello [Name].”
+
+Add navigation buttons: Home, Search, Library, Upload, Profile.
+
+Display featured songs and playlists.
+
+Include a search bar to find music.
+
+Show a small player at the bottom with play/pause options.
+
+4. Music Library / Song List Screen
+
+Show list or grid of songs and albums.
+
+Each card has a song name, artist, and play button.
+
+Add filter options like “Genre,” “Mood,” or “New Releases.”
+
+Allow users to scroll through all songs.
+
+Add “Add to Playlist” button for each song.
+
+5. Checkout / Subscription Screen
+
+Show subscription plans (Free, Monthly, Yearly).
+
+Display plan details and price.
+
+Let users select a plan and payment method.
+
+Show confirmation of purchase.
+
+End with a message like “Subscription Successful” and a button to start listening.
 ## Output:
 
 
