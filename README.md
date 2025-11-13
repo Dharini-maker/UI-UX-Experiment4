@@ -6,67 +6,69 @@ To Design a wireframe diagram for a generic application or website using Balsami
 
 ## Algorithm:
 
-1. Welcome / Splash Screen
+## 1. Welcome / Splash Screen
 
-Show app logo and name.
+1.Show app logo and name.
 
-Add a short tagline.
+2.Add a short tagline.
 
-Use a simple background with music-style design.
+3.Use a simple background with music-style design.
 
-Show a small loading symbol.
+4.Show a small loading symbol.
 
-Move automatically to the Login/Signup screen after a few seconds.
+5.Move automatically to the Login/Signup screen after a few seconds.
 
-2. Login / Signup Screen
+## 2. Login / Signup Screen
 
-Show “Login” and “Signup” options.
+1.Show “Login” and “Signup” options.
 
-Login: Email/Username and Password fields.
+2.Login: Email/Username and Password fields.
 
-Signup: Name, Email, Password fields.
+3.Signup: Name, Email, Password fields.
 
-Add buttons like “Continue with Google or Apple.”
+4.Add buttons like “Continue with Google or Apple.”
 
-Include “Forgot Password” link.
+5.Include “Forgot Password” link.
 
-After successful login or signup, go to Home Screen.
+6.After successful login or signup, go to Home Screen.
 
-3. Home / Dashboard Screen
+## 3. Home / Dashboard Screen
 
-Show a greeting like “Hello [Name].”
+1.Show a greeting like “Hello [Name].”
 
-Add navigation buttons: Home, Search, Library, Upload, Profile.
+2.Add navigation buttons: Home, Search, Library, Upload, Profile.
 
-Display featured songs and playlists.
+3.Display featured songs and playlists.
 
-Include a search bar to find music.
+4.Include a search bar to find music.
 
-Show a small player at the bottom with play/pause options.
+5.Show a small player at the bottom with play/pause options.
 
-4. Music Library / Song List Screen
+## 4. Music Library / Song List Screen
 
-Show list or grid of songs and albums.
+1.Show list or grid of songs and albums.
 
-Each card has a song name, artist, and play button.
+2.Each card has a song name, artist, and play button.
 
-Add filter options like “Genre,” “Mood,” or “New Releases.”
+3.Add filter options like “Genre,” “Mood,” or “New Releases.”
 
-Allow users to scroll through all songs.
+4.Allow users to scroll through all songs.
 
-Add “Add to Playlist” button for each song.
+5.Add “Add to Playlist” button for each song.
 
-5. Checkout / Subscription Screen
+## 5. Checkout / Subscription Screen
 
-Show subscription plans (Free, Monthly, Yearly).
+1.Show subscription plans (Free, Monthly, Yearly).
 
-Display plan details and price.
+2.Display plan details and price.
 
-Let users select a plan and payment method.
+3.Let users select a plan and payment method.
 
-Show confirmation of purchase.
+4.Show confirmation of purchase.
 
-End with a message like “Subscription Successful” and a button to start listening.
+5.End with a message like “Subscription Successful” and a button to start listening.
+
+
 ## Output:
 
 
