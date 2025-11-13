@@ -25,7 +25,9 @@ To Design a wireframe diagram for a generic application or website using Balsami
 
 <img width="365" height="645" alt="image" src="https://github.com/user-attachments/assets/d28019bd-2151-48f7-8318-44bd8553826b" />
 
+
 <img width="356" height="636" alt="image" src="https://github.com/user-attachments/assets/c4e00083-9d6e-40ca-9633-c817451c2fb9" />
+
 
 <img width="367" height="653" alt="image" src="https://github.com/user-attachments/assets/ef5af388-59b1-46a0-8c48-f59fc1df568b" />
 
