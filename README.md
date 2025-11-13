@@ -21,6 +21,7 @@ To Design a wireframe diagram for a generic application or website using Balsami
 
 ![1](https://github.com/user-attachments/assets/3c32d93b-a2a8-4501-a87a-47f09167ce80)
 
+
 ![2](https://github.com/user-attachments/assets/f53140b0-4754-40ed-955e-dffd954c370a)
 
 
