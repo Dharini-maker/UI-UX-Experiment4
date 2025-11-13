@@ -70,16 +70,10 @@ End with a message like “Subscription Successful” and a button to start list
 ## Output:
 
 
-![1](https://github.com/user-attachments/assets/3c32d93b-a2a8-4501-a87a-47f09167ce80)
+![1](https://github.com/user-attachments/assets/3c32d93b-a2a8-4501-a87a-47f09167ce80) ![2](https://github.com/user-attachments/assets/f53140b0-4754-40ed-955e-dffd954c370a)
 
 
-![2](https://github.com/user-attachments/assets/f53140b0-4754-40ed-955e-dffd954c370a)
-
-
-<img width="365" height="645" alt="image" src="https://github.com/user-attachments/assets/d28019bd-2151-48f7-8318-44bd8553826b" />
-
-
-<img width="356" height="636" alt="image" src="https://github.com/user-attachments/assets/c4e00083-9d6e-40ca-9633-c817451c2fb9" />
+<img width="365" height="645" alt="image" src="https://github.com/user-attachments/assets/d28019bd-2151-48f7-8318-44bd8553826b" /> <img width="356" height="636" alt="image" src="https://github.com/user-attachments/assets/c4e00083-9d6e-40ca-9633-c817451c2fb9" />
 
 
 <img width="367" height="653" alt="image" src="https://github.com/user-attachments/assets/ef5af388-59b1-46a0-8c48-f59fc1df568b" />
